@@ -1,0 +1,144 @@
+09A1C88E	recep tayyip erdogan university
+017DA24E	halic university
+072A5F45	izmir institute of technology
+003E96AD	yildiz technical university
+030D6658	eskisehir osmangazi university
+0373B160	istanbul medeniyet university
+0476D8B7	marmara university
+07E287C5	kadir has university
+088C0ED6	firat university
+06E3EBFC	balikesir university
+09C84826	mimar sinan fine arts university
+027B658D	ege university
+059ED226	galatasaray university
+01EAE936	cag university
+148BC285	igdir university
+0316D0C4	kocaeli university
+06552B9D	cankaya university
+0991910F	hakkari university
+0A10A938	bilkent university
+03557120	cukurova university
+0B759CBD	bursa technical university
+048B993A	sinop university
+031FAB7B	afyon kocatepe university
+07F8C3E1	anadolu university
+03DF2BD6	ordu university
+04CCEB72	harran university
+10D16810	nisantasi university
+07DBA4A2	uludag university
+08EC8190	siirt university
+09E34D24	ufuk university
+0C31B9B0	usak university
+12900F9B	yeni yuzyil university
+047D9C15	zonguldak karaelmas university
+07F0EA0F	ardahan university
+1255DE04	agri ibrahim cecen university
+032BEC65	istanbul commerce university
+05AE1216	abdullah gul university
+0FC67707	canik basari university
+02A65CE4	maltepe university
+02B6EC10	atilim university
+1444EE53	acibadem university school of medicine
+030483B0	istanbul arel university
+04C3E428	mugla university
+00C1CBB5	cumhuriyet university
+038F8919	university of gaziantep
+07A55D85	bahcesehir university
+4C5C2E08	nevsehir university
+00E5CA25	izmir university of economics
+0A7030E5	suleyman demirel university
+002DD3E4	bursa orhangazi university
+076066FD	istanbul sabahattin zaim university
+0C073747	middle east technical university
+02AD820C	ozyegin university
+02B874A1	kirikkale university
+0539CC60	erciyes university
+0407352D	istanbul university
+0683BF0A	gebze institute of technology
+09D019DF	zirve university
+0BD14B0F	nigde university
+1020D350	yildirim beyazit university
+082E8289	osmaniye korkut ata university
+03F6ECEE	hacettepe university
+0BD633DC	adiyaman university
+03161B84	mersin university
+07BF8DE2	dogus university
+02BDE8BA	mustafa kemal university
+06E94EAF	canakkale onsekiz mart university
+0A16A412	bilecik şeyh edebali university
+01331AB1	inonu university
+075BF20B	dicle university
+09F65363	istanbul bilim university
+0CFAD358	mardin artuklu university
+1338D40F	acibadem university
+13EFC3F0	şifa university
+062E62FA	sakarya university
+077A4768	namik kemal university
+09B2EB2C	karadeniz technical university
+0AB9CD37	istanbul aydin university
+05F6FC29	yeditepe university
+09F7CB6B	isik university
+0B3FF208	baskent university
+0BC0CEC3	istanbul kultur university
+215B7F28	turkiye is bankasi
+0014A048	koc university
+05E52E8F	kastamonu university
+0493F9C7	adnan menderes university
+049686F3	abant izzet baysal university
+07E216E5	izmir university
+0E31CD57	gaziosmanpasa university
+00CCC540	istanbul şehir university
+03D29E7C	ataturk university
+071132E2	yuzuncu yil university
+05B34272	gazi university
+00433890	bogazici university
+01EF5829	fatih university
+01EF9F89	batman university
+033FD6E8	mehmet akif ersoy university
+0D68A6F2	cankiri karatekin university
+0EEC8D20	izmir kâtip celebi university
+0000B3C1	kahramanmaras sutcu imam university
+006E62FA	ankara university medical school
+00BD02CF	trakya university
+02E94BBC	pamukkale university
+02C4FFC8	karamanoglu mehmetbey university
+08E4E4DD	ankara university
+0A5B64BE	karabuk university
+00843CC9	beykent university
+0FC0551A	kirklareli university
+00C1905F	toros university
+080043AE	sabanci university
+0337FF2A	duzce university
+0392AFD8	yasar university
+0A7E206A	erzincan university
+0FD38120	erzurum technical university
+02EA5807	istanbul technical university
+03DEAEA7	tunceli university
+08D562B1	giresun university
+00644F08	turgut ozal university
+026E6962	yalova university
+0300B95B	adana science and technology university
+04320813	amasya university
+081B017F	kafkas university
+0839AA80	selcuk university
+0F2C73FF	bartin university
+0285B69A	istanbul kemerburgaz university
+07091701	istanbul bilgi university
+0C302D4D	ahi evran university
+00FF905D	celal bayar university
+0104D352	hacettepe university medical school
+02727598	bitlis eren university
+05BCF17D	okan university
+086695FF	bayburt university
+0611F68D	piri reis university
+0859DB85	artvin coruh university
+0B8A5790	dokuz eylul university
+08662962	mus alparslan university
+08E1FF6E	gediz university
+0BCBD3FD	akdeniz university
+00C9F808	tobb university of economics and technology
+073F68DE	aksaray university
+0893F68D	gumushane university
+08CDB62E	bingol university
+0D8C6A54	ondokuz mayis university
+0E5D29F9	şirnak university
